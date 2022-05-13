@@ -46,7 +46,7 @@ The steps of our analysis of the crowdfunding campaign data, along with code sni
 1. Start the analysis by inspecting the dataset, looking at the data's extent, formatting, and readability.
 2. Louise estimates that her play will cost about $10,000, so we apply **filters** on data in the *pledged* and *goal* columns <br>
 to research projects with a similar monetary goal.
-3. Color-code the *outcomes* column using one of the conditional formatting options called **Highlight Cells Rules**, and <br>
+3. Color-code the *outcomes* column using one of the conditional formatting options called **Highlight Cells Rules**, and 
 set each unique outcome `equal to` color of choice.  
 4. Create a new column of data called *Percentage Funded*, and <br>
   a. Use the ROUND formula to find the percentage of a campaign's funding from the *pledged* and *goal* columns, as such: `=ROUND(E2/D2*100,0)`.<br> 
@@ -90,7 +90,7 @@ set each unique outcome `equal to` color of choice.
       - **Solution**: After filtering the *Kickstarters* sheet for GB's musicals, copy and paste these records into a new sheet designated for British musicals only, then build the box-and-whisker plot based on columns from that new sheet. 
 
 ## Results
-1. The preliminary inspection of the Excel file (crowfunding_StarterBook.xlsx) reveals: 
+1. The preliminary inspection of the Excel file (crowfunding_StarterBook.xlsx) reveals the following: 
     - There are 4,114 crowdfunding campaign records in 14 columns and 4,115 rows.
     - Out of 4,114 kickstarters, 3,038 (74%) originated in the United States.
     - For each campaign, there is information about its name and description, category and subcategory, goal and pledged funds, outcome and number of backers, launch and end dates, and country and currency.

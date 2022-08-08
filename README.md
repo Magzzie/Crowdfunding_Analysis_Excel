@@ -35,9 +35,9 @@ We will be performing data analysis on several thousand crowdfunding projects to
 14. Create a Box and Whisker plot for British musical productions.
 
 ## Resources
-- Data sources: crowdfunding_StarterBook.xlsx. 
+- Data sources: [crowdfunding_StarterBook.xlsx](https://github.com/Magzzie/Crowdfunding_Analysis_Excel/blob/main/Data/crowdfunding_StarterBook.xlsx), [Kickstarter_Challenge.xlsx](https://github.com/Magzzie/Crowdfunding_Analysis_Excel/blob/main/Data/Kickstarter_Challenge.xlsx). 
 - Programs: Microsoft Excel.
-- Online Tools: GitHub.
+- Online Tools: [Crowdfunding Analysis GitHub Reporsitory](https://github.com/Magzzie/Crowdfunding_Analysis_Excel)
 
 ## Analysis & Code
 The steps of our analysis of the crowdfunding campaign data, along with code snippets, are displayed below.   
